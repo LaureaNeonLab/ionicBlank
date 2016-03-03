@@ -1,0 +1,2 @@
+# ionicBlank
+ionictemplate with sidemenu.
